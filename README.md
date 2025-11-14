@@ -3,7 +3,7 @@
 **Full-Stack Developer | Lifelong Learner | Aspiring Cybersecurity Engineer**
 
 This GitHub is where I build, break, and rebuild things on purpose.  
-It’s separate from my bootcamp work — this is everything I’m building now to level up as a developer and grow into a future security professional.
+It’s separate from my bootcamp work. This is everything I’m building now to level up as a developer and grow into a future security professional.
 
 ---
 
@@ -12,7 +12,7 @@ I love turning ideas into real, functional applications.
 
 Bootcamp graduate now focused on self-driven projects that show what I can truly build.
 
-Not a cybersecurity pro yet — but actively learning security fundamentals to strengthen the applications I develop.
+I’m not a cybersecurity expert yet, but I’m learning the essentials so the apps I build are secure from the ground up.
 
 Developer first, but committed to understanding cyber to build safer, more secure web apps.
 
