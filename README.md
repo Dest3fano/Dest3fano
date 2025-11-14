@@ -30,6 +30,7 @@ Developer first, but committed to understanding cyber to build safer, more secur
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat)
 
+## Featured Projects
 
 ## What I’m Learning Next
 
