@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Joseph Destefano
+# Hey, I'm Joseph Destefano
 
 **Full-Stack Developer | Always Improving | Learning Cyber to Build Safer Apps**
 
