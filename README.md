@@ -2,7 +2,7 @@
 
 Im Joe, a full stack developer based in Orlando
 
-This GitHub is where I **build, break, and rebuild things on purpose** — experimenting, learning, and improving along the way.
+This GitHub is where I build, break, and rebuild things on purpose, experimenting, learning, and improving along the way.
 
 I love **designing and building** whatever I can imagine, and when I get an idea, I usually turn it into a real project.
 
