@@ -6,8 +6,6 @@ This GitHub is where I **build, break, and rebuild things on purpose** — exper
 
 ---
 
-## About Me
-
 I love **designing and building** whatever I can imagine, and when I get an idea, I usually turn it into a real project.
 
 I am also passionate about **cybersecurity and ethical hacking**. I enjoy exploring how systems work, finding vulnerabilities, and learning how to make software more secure.
@@ -18,8 +16,9 @@ I am also passionate about **cybersecurity and ethical hacking**. I enjoy explor
 
 Here’s what I mainly work with:
 
-- **Frontend:** React, TypeScript, Tailwind CSS, Framer Motion
-- **Design & Prototyping:** Figma, Apple Notes, Procreate
+- **Frontend:** React, Next.js, TypeScript  
+- **Backend:** Node.js, Python  
+- **Database:** MongoDB  
 
 ---
 
@@ -29,15 +28,6 @@ One of my favorite projects is **[CFO Agenda Creator](#)** — a tool that helps
 
 ---
 
-## Always Learning
-
-I am **always learning and building new things**. Each project is an opportunity to grow, experiment, and improve my skills. Check out my repositories to see what I’m working on next!
-
----
-
-## Let’s Connect
-
-I love collaborating and sharing ideas. Feel free to explore my projects and reach out!
 
 
 > _“The best way to learn is to build. The second best way is to break what you built and fix it.”_
