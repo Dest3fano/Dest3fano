@@ -2,8 +2,6 @@
 
 Im Joe, a full stack developer based in Orlando Florida
 
-**Full-Stack Developer | Always Improving | Learning Cyber to Build Safer Apps**
-
 This GitHub is where I **build, break, and rebuild things on purpose** — experimenting, learning, and improving along the way.
 
 ---
