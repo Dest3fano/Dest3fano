@@ -1,52 +1,44 @@
-# Hey, I'm Joseph Destefano
+# Hi, I’m Joe, a full stack developer based in Orlando Florida👋
 
 **Full-Stack Developer | Always Improving | Learning Cyber to Build Safer Apps**
 
-This GitHub is where I build, break, and rebuild things on purpose.  
-It’s separate from my bootcamp work — this is everything I’m building now to level up as a developer and grow into a future security professional.
+This GitHub is where I **build, break, and rebuild things on purpose** — experimenting, learning, and improving along the way.
 
 ---
 
 ## About Me
-I love turning ideas into real, functional applications.
 
-Bootcamp graduate now focused on self-driven projects that show what I can truly build.
+I love **designing and building** whatever I can imagine, and when I get an idea, I usually turn it into a real project.
 
-Not a cybersecurity pro yet — but actively learning security fundamentals to strengthen the applications I develop.
-
-Developer first, but committed to understanding cyber to build safer, more secure web apps.
+I am also passionate about **cybersecurity and ethical hacking**. I enjoy exploring how systems work, finding vulnerabilities, and learning how to make software more secure.
 
 ---
+
 ## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat)
+Here’s what I mainly work with:
 
-## Featured Projects
-
-## What I’m Learning Next
-
-- Web app security basics (OWASP-style thinking)
-- Authentication & authorization done right (JWT, sessions, hashing, etc.)
-- Better testing habits (unit/integration tests)
+- **Frontend:** React, TypeScript, Tailwind CSS, Framer Motion
+- **Design & Prototyping:** Figma, Apple Notes, Procreate
 
 ---
 
-## 🤝 Let’s Connect
+## Favorite Project
 
-I’m always open to feedback, collaboration, or just talking code and security.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:@destefanojoewebdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joeadestefano)
+One of my favorite projects is **[CFO Agenda Creator](#)** — a tool that helps finance leaders **organize and optimize their meeting agendas**.
 
 ---
+
+## Always Learning
+
+I am **always learning and building new things**. Each project is an opportunity to grow, experiment, and improve my skills. Check out my repositories to see what I’m working on next!
+
+---
+
+## Let’s Connect
+
+I love collaborating and sharing ideas. Feel free to explore my projects and reach out!
+
 
 > _“The best way to learn is to build. The second best way is to break what you built and fix it.”_
+
