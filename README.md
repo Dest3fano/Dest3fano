@@ -1,6 +1,6 @@
 # Hi There, 
 
-Im Joe, a full stack developer based in Orlando
+Im Joe, a full stack developer based in Orlando.
 
 This GitHub is where I build, break, and rebuild things on purpose, experimenting, learning, and improving along the way.
 
