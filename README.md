@@ -1,4 +1,6 @@
-# Hi, I’m Joe, a full stack developer based in Orlando Florida👋
+# Hi, I’m Joe, 
+
+A full stack developer based in Orlando Florida👋
 
 **Full-Stack Developer | Always Improving | Learning Cyber to Build Safer Apps**
 
