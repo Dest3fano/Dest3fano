@@ -156,14 +156,7 @@ Describe a site in one sentence and **get a working website**. Prompt in, pages 
 </div>
 
 <details>
-<summary><b>🧩 More builds (click to expand)</b></summary>
 <br/>
-
-| | Project | What it does | Stack | Status |
-|:--:|:--|:--|:--|:--:|
-| 📅 | **[AI Post Scheduler](https://github.com/YOUR_USERNAME/ai-post-scheduler)** | Writes and schedules social posts with AI | `Node` `AI API` | 🔜 |
-| 💪 | **[AI Fitness Tracker](https://github.com/YOUR_USERNAME/ai-fitness-tracker)** | Logs workouts and gives AI coaching tips | `React` `AI API` | 🔜 |
-| ☁️ | **[Cloud Storage Platform](https://github.com/YOUR_USERNAME/cloud-storage)** | Upload, store, and share files in the cloud | `React` `AWS` | 🔜 |
 
 </details>
 
