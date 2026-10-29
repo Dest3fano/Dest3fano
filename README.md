@@ -86,15 +86,86 @@ class Developer:
 
 <!-- Swap these for your real repos as you finish them -->
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| 🧠 **[Codebase Intelligence App](https://github.com/YOUR_USERNAME/codebase-intelligence)** | AI agents that read, map, and explain any codebase | `React` `TypeScript` `AI Agents` |
-| 💼 **[Job Applications Platform](https://github.com/YOUR_USERNAME/job-platform)** | Full stack job tracker built with an AI-first workflow | `Next.js` `Node` `Claude Code` |
-| 📄 **[AI Resume Analyzer](https://github.com/YOUR_USERNAME/ai-resume-analyzer)** | Scores resumes and suggests improvements with AI | `React` `AI API` |
-| 🌐 **[AI Website Builder](https://github.com/YOUR_USERNAME/ai-website-builder)** | Generates websites from a text prompt | `React` `Tailwind` `AI API` |
-| 📅 **[AI Social Post Scheduler](https://github.com/YOUR_USERNAME/ai-post-scheduler)** | Writes and schedules social media posts | `Node` `AI API` |
-| 💪 **[AI Fitness Tracker](https://github.com/YOUR_USERNAME/ai-fitness-tracker)** | Tracks workouts and gives AI coaching tips | `React` `AI API` |
-| ☁️ **[Cloud Storage Platform](https://github.com/YOUR_USERNAME/cloud-storage)** | Upload, store, and share files in the cloud | `React` `AWS` |
+<!-- Swap repo names and demo links for your real ones as you finish each project.
+     Change the status badge: Shipped (45C6A4) · In_Progress (F0A35E) · Planned (93A0AC) -->
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Codebase Intelligence
+<img src="https://img.shields.io/badge/Status-In_Progress-F0A35E?style=flat-square&labelColor=16202A" />
+
+AI agents that **read, map, and explain any codebase**. Point it at a repo and ask questions in plain English.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-16202A?style=flat-square&logo=anthropic&logoColor=45C6A4" />
+
+[**🔗 Live Demo**](https://YOUR_DEMO_URL) · [**💻 Code**](https://github.com/YOUR_USERNAME/codebase-intelligence)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Job Applications Platform
+<img src="https://img.shields.io/badge/Status-In_Progress-F0A35E?style=flat-square&labelColor=16202A" />
+
+A **full stack job tracker** built with a senior-engineer, AI-first workflow. Track applications from first click to offer.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+
+[**🔗 Live Demo**](https://YOUR_DEMO_URL) · [**💻 Code**](https://github.com/YOUR_USERNAME/job-platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 AI Resume Analyzer
+<img src="https://img.shields.io/badge/Status-Planned-93A0AC?style=flat-square&labelColor=16202A" />
+
+Upload a resume and get an **instant AI score** with specific fixes to get past applicant tracking systems.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/AI_API-16202A?style=flat-square&logo=openai&logoColor=45C6A4" />
+
+[**🔗 Live Demo**](https://YOUR_DEMO_URL) · [**💻 Code**](https://github.com/YOUR_USERNAME/ai-resume-analyzer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 AI Website Builder
+<img src="https://img.shields.io/badge/Status-Planned-93A0AC?style=flat-square&labelColor=16202A" />
+
+Describe a site in one sentence and **get a working website**. Prompt in, pages out.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_API-16202A?style=flat-square&logo=openai&logoColor=45C6A4" />
+
+[**🔗 Live Demo**](https://YOUR_DEMO_URL) · [**💻 Code**](https://github.com/YOUR_USERNAME/ai-website-builder)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><b>🧩 More builds (click to expand)</b></summary>
+<br/>
+
+| | Project | What it does | Stack | Status |
+|:--:|:--|:--|:--|:--:|
+| 📅 | **[AI Post Scheduler](https://github.com/YOUR_USERNAME/ai-post-scheduler)** | Writes and schedules social posts with AI | `Node` `AI API` | 🔜 |
+| 💪 | **[AI Fitness Tracker](https://github.com/YOUR_USERNAME/ai-fitness-tracker)** | Logs workouts and gives AI coaching tips | `React` `AI API` | 🔜 |
+| ☁️ | **[Cloud Storage Platform](https://github.com/YOUR_USERNAME/cloud-storage)** | Upload, store, and share files in the cloud | `React` `AWS` | 🔜 |
+
+</details>
 
 ---
 
