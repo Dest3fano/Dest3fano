@@ -96,7 +96,7 @@ class Developer:
 <td width="50%" valign="top">
 
 ### 🧠 Codebase Intelligence
-<img src="https://img.shields.io/badge/Status-In_Progress-F0A35E?style=flat-square&labelColor=16202A" />
+
 
 AI agents that **read, map, and explain any codebase**. Point it at a repo and ask questions in plain English.
 
@@ -110,7 +110,7 @@ AI agents that **read, map, and explain any codebase**. Point it at a repo and a
 <td width="50%" valign="top">
 
 ### 💼 Job Applications Platform
-<img src="https://img.shields.io/badge/Status-In_Progress-F0A35E?style=flat-square&labelColor=16202A" />
+
 
 A **full stack job tracker** built with a senior-engineer, AI-first workflow. Track applications from first click to offer.
 
@@ -126,7 +126,7 @@ A **full stack job tracker** built with a senior-engineer, AI-first workflow. Tr
 <td width="50%" valign="top">
 
 ### 📄 AI Resume Analyzer
-<img src="https://img.shields.io/badge/Status-Planned-93A0AC?style=flat-square&labelColor=16202A" />
+
 
 Upload a resume and get an **instant AI score** with specific fixes to get past applicant tracking systems.
 
@@ -139,7 +139,7 @@ Upload a resume and get an **instant AI score** with specific fixes to get past 
 <td width="50%" valign="top">
 
 ### 🌐 AI Website Builder
-<img src="https://img.shields.io/badge/Status-Planned-93A0AC?style=flat-square&labelColor=16202A" />
+
 
 Describe a site in one sentence and **get a working website**. Prompt in, pages out.
 
