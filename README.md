@@ -109,9 +109,6 @@ Got an idea, a project, or a role in mind? **My inbox is open.**
 
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email_Me-45C6A4?style=for-the-badge&logo=gmail&logoColor=16202A" /></a>
 <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://youtube.com/@YOUR_USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-16202A?style=for-the-badge&logo=googlechrome&logoColor=45C6A4" /></a>
 
 <br/><br/>
