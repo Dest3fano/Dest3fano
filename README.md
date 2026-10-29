@@ -98,21 +98,6 @@ class Developer:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=45C6A4&icon_color=45C6A4&text_color=E6EBEF&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=45C6A4&text_color=E6EBEF" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=45C6A4&fire=45C6A4&currStreakLabel=45C6A4&sideLabels=E6EBEF&currStreakNum=E6EBEF&sideNums=E6EBEF&dates=93A0AC" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=45C6A4&line=0E7C66&point=E6EBEF&area=true&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -131,14 +116,6 @@ Got an idea, a project, or a role in mind? **My inbox is open.**
 
 <br/><br/>
 
-### 🟢 Currently Open To
-
-<img src="https://img.shields.io/badge/Collaborations-Open-45C6A4?style=flat-square&labelColor=16202A" />
-<img src="https://img.shields.io/badge/Freelance_Automation-n8n_%7C_Zapier-45C6A4?style=flat-square&labelColor=16202A" />
-<img src="https://img.shields.io/badge/Junior_AI_%2F_Dev_Roles-Open-45C6A4?style=flat-square&labelColor=16202A" />
-<img src="https://img.shields.io/badge/Open_Source-Contributions_Welcome-45C6A4?style=flat-square&labelColor=16202A" />
-
-<br/><br/>
 
 | 💬 Talk to me about | 🤝 Let's build together | ⚡ Fastest way to reach me |
 |:--:|:--:|:--:|
