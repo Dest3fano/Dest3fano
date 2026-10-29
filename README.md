@@ -15,9 +15,6 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0E7C66&labelColor=16202A" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0B4F6C" />
-<img src="https://img.shields.io/badge/Status-Building%20Daily-45C6A4?style=for-the-badge&labelColor=16202A" />
 
 </div>
 
@@ -116,16 +113,42 @@ class Developer:
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+I'm always up for talking about **AI, automation, and building things that matter**.<br/>
+Got an idea, a project, or a role in mind? **My inbox is open.**
+
+<br/>
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email_Me-45C6A4?style=for-the-badge&logo=gmail&logoColor=16202A" /></a>
 <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://youtube.com/@YOUR_USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-16202A?style=for-the-badge&logo=googlechrome&logoColor=45C6A4" /></a>
 
 <br/><br/>
+
+### 🟢 Currently Open To
+
+<img src="https://img.shields.io/badge/Collaborations-Open-45C6A4?style=flat-square&labelColor=16202A" />
+<img src="https://img.shields.io/badge/Freelance_Automation-n8n_%7C_Zapier-45C6A4?style=flat-square&labelColor=16202A" />
+<img src="https://img.shields.io/badge/Junior_AI_%2F_Dev_Roles-Open-45C6A4?style=flat-square&labelColor=16202A" />
+<img src="https://img.shields.io/badge/Open_Source-Contributions_Welcome-45C6A4?style=flat-square&labelColor=16202A" />
+
+<br/><br/>
+
+| 💬 Talk to me about | 🤝 Let's build together | ⚡ Fastest way to reach me |
+|:--:|:--:|:--:|
+| AI agents, LLM apps,<br/>automation workflows | AI side projects,<br/>hackathons, open source | Email or<br/>LinkedIn DM |
+
+<br/>
+
+⭐ **If you like my projects, drop a star. It keeps me building.**
+
+<br/>
 
 <i>"Build in public. Ship every week. Let the projects do the talking."</i>
 
