@@ -25,23 +25,39 @@
 
 ## ⚡ About Me
 
-```ts
-const me = {
-  role:        "Aspiring AI Engineer",
-  focus:       ["AI Agents", "Automation", "Full Stack + AI"],
-  learning:    ["LangChain", "AWS", "TypeScript", "Claude Code"],
-  building:    "AI-integrated full stack apps",
-  automating:  ["n8n", "Zapier"],
-  nextUp:      "ZTM AI Engineering Bootcamp",
-  funFact:     "I also study market structure & liquidity on the charts 📈",
-};
+I'm a developer on a mission to become an **AI engineer**. I build full stack apps with AI at the core, automate repetitive work with smart workflows, and ship projects in public so you can follow the progress in real time.
+
+I care about building things people actually use, not just demos.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name       = "YOUR_NAME"
+        self.role       = "AI Engineer in the making"
+        self.stack      = ["Python", "TypeScript", "React", "Node.js", "AWS"]
+        self.ai_tools   = ["LangChain", "Claude Code", "OpenAI API", "AI Agents"]
+        self.automation = ["n8n", "Zapier"]
+
+    def mission(self):
+        return "Turn ideas into AI-powered products that solve real problems."
+
+    def right_now(self):
+        return {
+            "building": "AI agents and full stack AI apps",
+            "learning": "LangChain, AWS, advanced TypeScript",
+            "next_up":  "ZTM AI Engineering Bootcamp",
+        }
 ```
 
-- 🔭 Currently building **AI-powered full stack apps**: resume analyzers, website builders, codebase intelligence tools
-- 🌱 Working through **30 Python projects** and **30 React projects** to sharpen fundamentals
-- 🤖 Exploring **AI agents**, prompt engineering, and workflow automation
-- ☁️ Leveling up on **AWS** with real-world cloud projects
-- 💬 Ask me about **automation, AI tools, or learning to code with AI**
+### 💡 What I Bring
+
+- 🧠 **AI-first building:** I use AI agents and LLM APIs as core features, from resume analyzers to codebase intelligence tools
+- ⚙️ **Automation:** I connect apps and kill busywork with n8n and Zapier workflows
+- 🌐 **Full stack:** React and TypeScript on the front end, Node and Python on the back end
+- ☁️ **Cloud:** I deploy and scale real projects on AWS
+- 📈 **Off the keyboard:** I study market structure and liquidity on the charts, the same pattern-spotting mindset I bring to code
+
+> 💬 **Ask me about** AI tools, automation, or how to learn to code faster with AI.
 
 ---
 
@@ -82,28 +98,6 @@ const me = {
 | 📅 **[AI Social Post Scheduler](https://github.com/YOUR_USERNAME/ai-post-scheduler)** | Writes and schedules social media posts | `Node` `AI API` |
 | 💪 **[AI Fitness Tracker](https://github.com/YOUR_USERNAME/ai-fitness-tracker)** | Tracks workouts and gives AI coaching tips | `React` `AI API` |
 | ☁️ **[Cloud Storage Platform](https://github.com/YOUR_USERNAME/cloud-storage)** | Upload, store, and share files in the cloud | `React` `AWS` |
-
----
-
-## 🗺️ Learning Roadmap
-
-```diff
-+ Phase 1 · Foundations
-  Prompt Engineering · n8n · Zapier · OpenClaw
-  Python 30 Projects · React 30 Projects · Claude Code
-
-+ Phase 2 · TypeScript & AWS
-  The Complete TypeScript Course · AWS Cloud Projects for Engineers
-
-+ Phase 3 · Practice Projects
-  7 AI-integrated full stack apps (see above)
-
-! Phase 4 · AI Engineering
-  ZTM AI Engineering: LangChain, APIs & more
-
-! Phase 5 · Bootcamp
-  ZTM AI Engineering Bootcamp
-```
 
 ---
 
